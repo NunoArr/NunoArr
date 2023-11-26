@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi, there! My name is Nuno Arranja and I'm a Front-End Developer. 👋
+![computer-illustration](https://github.com/NunoArr/NunoArr/assets/96690697/cb8ce68b-fbcb-491b-a865-018ee0c3a8ed)
 
 <!--
 **NunoArr/NunoArr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
